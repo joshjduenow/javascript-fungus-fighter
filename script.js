@@ -50,21 +50,21 @@ function onReady() {
         }
       }
       
-    //   function arcaneScepter() {
-    //     attack(12, 14)
-    //   }
+      function arcane() {
+        attack(12, 14)
+      }
       
-    //   function entangle() {
-    //     attack(23, 9)
-    //   }
+      function entangle() {
+        attack(23, 9)
+      }
       
-    //   function dragonBlade() {
-    //     attack(38, 47)
-    //   }
+      function dragonBlade() {
+        attack(38, 47)
+      }
       
-    //   function starFire() {
-    //     attack(33, 25)
-    //   }
+      function starFire() {
+        attack(33, 25)
+      }
 
 }
 
