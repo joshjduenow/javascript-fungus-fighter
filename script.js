@@ -1,7 +1,7 @@
 // State Variables can be declared outside of the onReady
 // Feel free to make this to what you want!
 // Example:
-let fungusAP = 100;
+let fungusHP = 100;
 let playerAP = 100;
 
 function onReady() {
@@ -50,21 +50,21 @@ function onReady() {
         }
       }
       
-      function arcaneScepter() {
-        attack(12, 14)
-      }
+    //   function arcaneScepter() {
+    //     attack(12, 14)
+    //   }
       
-      function entangle() {
-        attack(23, 9)
-      }
+    //   function entangle() {
+    //     attack(23, 9)
+    //   }
       
-      function dragonBlade() {
-        attack(38, 47)
-      }
+    //   function dragonBlade() {
+    //     attack(38, 47)
+    //   }
       
-      function starFire() {
-        attack(33, 25)
-      }
+    //   function starFire() {
+    //     attack(33, 25)
+    //   }
 
 }
 
